@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def check_email(string):
+        ...
+  learner_created: false
+- name: check_email_test.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9561#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 17 Jun 2022 11:39:30 UTC
+record: -1
